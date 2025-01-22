@@ -673,7 +673,7 @@ class YoutubePlayerController implements YoutubePlayerIFrameAPI {
 
   Future<String> _buildPlayerHTML(Map<String, String> data) async {
     final playerHtml = await rootBundle.loadString(
-      'packages/youtube_player_iframe/assets/player.html',
+      'assets/player.html',
     );
 
     return playerHtml.replaceAllMapped(
