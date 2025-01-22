@@ -1,4 +1,4 @@
-import 'package:youtube_iframe/youtube_player_iframe.dart';
+import 'package:youtube_iframe/youtube_iframe.dart';
 
 /// The skeleton for video information getters.
 abstract class VideoInformation {

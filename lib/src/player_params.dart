@@ -5,7 +5,7 @@
 import 'dart:convert';
 
 import 'package:flutter/foundation.dart';
-import 'package:youtube_iframe/youtube_player_iframe.dart';
+import 'package:youtube_iframe/youtube_iframe.dart';
 
 /// Defines player parameters for [YoutubePlayer].
 class YoutubePlayerParams {
