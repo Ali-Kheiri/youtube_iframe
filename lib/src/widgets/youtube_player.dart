@@ -7,7 +7,7 @@ import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:webview_flutter/webview_flutter.dart';
-import 'package:youtube_player_iframe/src/widgets/fullscreen_youtube_player.dart';
+import 'package:youtube_iframe/src/widgets/fullscreen_youtube_player.dart';
 
 import '../controller/youtube_player_controller.dart';
 

@@ -9,8 +9,8 @@ import 'package:url_launcher/url_launcher.dart' as uri_launcher;
 import 'package:webview_flutter/webview_flutter.dart';
 import 'package:webview_flutter_android/webview_flutter_android.dart';
 import 'package:webview_flutter_wkwebview/webview_flutter_wkwebview.dart';
-import 'package:youtube_player_iframe/src/iframe_api/src/functions/video_information.dart';
-import 'package:youtube_player_iframe/youtube_player_iframe.dart';
+import 'package:youtube_iframe/src/iframe_api/src/functions/video_information.dart';
+import 'package:youtube_iframe/youtube_player_iframe.dart';
 
 import 'youtube_player_event_handler.dart';
 
